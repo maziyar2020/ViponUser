@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .f1 {
+        fill: #8f6d28;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 0;
+        animation: w1 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w1 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        5% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        35% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        65% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        95% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+      }
+
+      .f2 {
+        fill: #c93;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 0;
+        animation: w2 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w2 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        10% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        45% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        55% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        90% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+      }
+
+      .f3 {
+        fill: #c93;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 0;
+        animation: w3 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w3 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+
+        30% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        70% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #8f6d28;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #8f6d28;
+        }
+      }
+
+      .f4 {
+        fill: #c93;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 0;
+        animation: w4 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w4 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        5% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        35% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        65% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        95% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+      }
+
+      .f5 {
+        fill: #c93;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 1;
+        animation: w5 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w5 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        10% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        45% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        55% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        90% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+      }
+
+      .f6 {
+        fill: #c93;
+        stroke: #000000;
+        stroke-opacity: 0;
+        opacity: 1;
+        animation: w6 2s infinite;
+        animation-delay: 0s
+      }
+
+      @keyframes w6 {
+        0% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+
+        30% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        70% {
+          transform: translateY(0px);
+          opacity: 1;
+          fill: #c93;
+        }
+
+        100% {
+          transform: translateY(-40px);
+          opacity: 0;
+          fill: #c93;
+        }
+      }
+    </style>
+  </defs>
+  <title>Vipon</title>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <path class="f6" d="M251.75,324.05,368,206.1a125.33,125.33,0,0,1,7.87,43L251.75,375Z"/>
+    <path class="f5" d="M251.75,176.32l43-43.62a123.29,123.29,0,0,0-42.63-7.7l-.37.37Z"/>
+    <path class="f4" d="M251.75,275.66,351,174.94a125.54,125.54,0,0,0-25.28-25.31l-74,75.08Z"/>
+    <path class="f3" d="M135.5,206.1l116.25,118V375L127.63,249.07A125.33,125.33,0,0,1,135.5,206.1Z"/>
+    <path class="f2" d="M251.75,125.37v50.95l-43-43.62a123,123,0,0,1,42.63-7.7Z"/>
+    <path class="f1" d="M251.75,224.71v51L152.48,174.94a125.23,125.23,0,0,1,25.27-25.31Z"/>
+  </g>
+</svg>
